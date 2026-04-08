@@ -23,7 +23,7 @@ The website must feel like it was made for a luxury European automotive brand â€
 
 | Layer      | Choice                                                                         |
 | ---------- | ------------------------------------------------------------------------------ |
-| Framework  | Next.js 14, App Router, TypeScript                                             |
+| Framework  | Next.js 16, App Router, TypeScript                                             |
 | Styling    | Tailwind CSS (no inline styles, no CSS modules)                                |
 | Animation  | Framer Motion (global) + GSAP with ScrollTrigger (Car Detail only)             |
 | CMS        | Sanity.io â€” client, schemas, GROQ queries                                      |
